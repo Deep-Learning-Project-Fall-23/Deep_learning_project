@@ -9,14 +9,17 @@ torch
 sentencepiece(required for Hindi and Persian)
 
  Model :
- 1- persiannlp/mt5-base-parsinlu-opus-translation_fa_en
+ 1- Transformer Align Model
  2- t5-small
+ 3- Proposed Multi_head self_attention Bidirectional LSTm in encoder and LSTM in decoder 
 
 
  datasets:
  "opus_books", "en-fr"
  bbaaaa/iwslt14-de-en
- persiannlp/parsinlu_translation_en_fa
  cfilt/iitb-english-hindi
 # demo 
+## English to German , French and Hindi
 https://huggingface.co/spaces/barghavani/translation_machin_en_to_multi_languages
+## Persian to English 
+https://huggingface.co/spaces/barghavani/Translation_Machine_Farsi_to_English
