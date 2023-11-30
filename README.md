@@ -20,11 +20,18 @@ sentencepiece(required for Hindi and Persian)
 
 
  datasets:
+ 
  "opus_books", "en-fr"
+ 
  bbaaaa/iwslt14-de-en
+ 
  cfilt/iitb-english-hindi
+ 
 # demo 
 ## English to German , French and Hindi
+
 https://huggingface.co/spaces/barghavani/translation_machin_en_to_multi_languages
+
 ## Persian to English 
+
 https://huggingface.co/spaces/barghavani/Translation_Machine_Farsi_to_English
