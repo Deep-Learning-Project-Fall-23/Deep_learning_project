@@ -10,7 +10,8 @@ sentencepiece(required for Hindi and Persian)
 
  Model :
  
- 1- Transformer Align Model /n
+ 1- Transformer Align Model 
+ 
  2- t5-small
  3- Proposed Multi_head self_attention Bidirectional LSTm in encoder and LSTM in decoder 
 # compare the performance of Sequence to Squence LSTM and our Proposal Model in compare folder
