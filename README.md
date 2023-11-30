@@ -19,11 +19,15 @@ sentencepiece(required for Hindi and Persian)
 # compare the performance of Sequence to Squence LSTM and our Proposal Model in compare folder
 
 
+
  datasets:
+
  
  "opus_books", "en-fr"
+
  
  bbaaaa/iwslt14-de-en
+
  
  cfilt/iitb-english-hindi
  
